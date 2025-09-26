@@ -8,7 +8,7 @@
 <a href="https://github.com/lowlighter/metrics"><img width="400rem" src="./github-metrics/youtube.music.svg" align="right"></a>
 
 <a href="https://github.com/lowlighter/metrics"><img width="400rem" src="./github-metrics/isocalendar.fullyear.svg" ></a>
-<a href="https://github.com/lowlighter/metrics"><img width="400rem" src="./github-metrics/calendar.full.svg" align="right"></a><br><br>
+<a href="https://github.com/lowlighter/metrics"><img width="400rem" src="./github-metrics/calendar.full.svg" align="right"></a><br><br><br>
 
 <a href="https://github.com/lowlighter/metrics"><img width="400rem" src="./github-metrics/habits.charts.svg"></a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img width="400rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shameimaru-Ayaya&layout=compact&title_color=39c5bb&hide=jupyter%20notebook,makefile&langs_count=8&size_weight=0.1&count_weight=0.9&card_width=500" align="right"></a>
