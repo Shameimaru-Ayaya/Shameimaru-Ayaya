@@ -1,7 +1,7 @@
 name: Metrics
 on:
   # Schedule daily updates
-  schedule: [{cron: "0 6 * * *"}]
+  schedule: [{cron: "21 7 * * *"}]
   # (optional) Run workflow manually
   workflow_dispatch:
   # (optional) Run workflow when pushing on master/main
@@ -41,13 +41,16 @@ jobs:
           # plugin_starlists_only: Awesome
           extras_css: |
                 title {
-                  color: #39C5BB;
+                  color: #E25577;
                 }
                 h1 {
-                  color: #39C5BB;
+                  color: #E25577;
                 }
                 h2 {
                   color: #39C5BB;
+                }
+                h3 {
+                  color: #FFA500;
                 }
 
       # 📅 Isometric commit calendar
@@ -64,13 +67,16 @@ jobs:
           plugin_isocalendar_duration: full-year
           extras_css: |
                 title {
-                  color: #39C5BB;
+                  color: #E25577;
                 }
                 h1 {
-                  color: #39C5BB;
+                  color: #E25577;
                 }
                 h2 {
                   color: #39C5BB;
+                }
+                h3 {
+                  color: #FFA500;
                 }
 
       # 🈷️ Languages activity
@@ -89,13 +95,16 @@ jobs:
           plugin_languages_analysis_timeout: 15
           extras_css: |
                 title {
-                  color: #39C5BB;
+                  color: #E25577;
                 }
                 h1 {
-                  color: #39C5BB;
+                  color: #E25577;
                 }
                 h2 {
                   color: #39C5BB;
+                }
+                h3 {
+                  color: #FFA500;
                 }
 
       # ✨ Stargazers
@@ -109,13 +118,16 @@ jobs:
           plugin_stargazers_charts_type: graph
           extras_css: |
                 title {
-                  color: #39C5BB;
+                  color: #E25577;
                 }
                 h1 {
-                  color: #39C5BB;
+                  color: #E25577;
                 }
                 h2 {
                   color: #39C5BB;
+                }
+                h3 {
+                  color: #FFA500;
                 }
                 
       # 🌟 Recently starred repositories
@@ -129,13 +141,16 @@ jobs:
           plugin_stars_limit: 10
           extras_css: |
                 title {
-                  color: #39C5BB;
+                  color: #E25577;
                 }
                 h1 {
-                  color: #39C5BB;
+                  color: #E25577;
                 }
                 h2 {
                   color: #39C5BB;
+                }
+                h3 {
+                  color: #FFA500;
                 }
                 
       # 💡 Coding habits and activity
@@ -151,13 +166,16 @@ jobs:
           config_timezone: Europe/Paris
           extras_css: |
                 title {
-                  color: #39C5BB;
+                  color: #E25577;
                 }
                 h1 {
-                  color: #39C5BB;
+                  color: #E25577;
                 }
                 h2 {
                   color: #39C5BB;
+                }
+                h3 {
+                  color: #FFA500;
                 }
                 
       # 🎟️ Follow-up of issues and pull requests
@@ -171,13 +189,16 @@ jobs:
           plugin_followup_indepth: yes
           extras_css: |
                 title {
-                  color: #39C5BB;
+                  color: #E25577;
                 }
                 h1 {
-                  color: #39C5BB;
+                  color: #E25577;
                 }
                 h2 {
                   color: #39C5BB;
+                }
+                h3 {
+                  color: #FFA500;
                 }
 
       # 🎭 Comment reactions
@@ -192,13 +213,16 @@ jobs:
           plugin_reactions_details: percentage
           extras_css: |
                 title {
-                  color: #39C5BB;
+                  color: #E25577;
                 }
                 h1 {
-                  color: #39C5BB;
+                  color: #E25577;
                 }
                 h2 {
                   color: #39C5BB;
+                }
+                h3 {
+                  color: #FFA500;
                 }
 
       # 🧑‍🤝‍🧑 People
@@ -214,13 +238,16 @@ jobs:
           plugin_people_types: followers, following
           extras_css: |
                 title {
-                  color: #39C5BB;
+                  color: #E25577;
                 }
                 h1 {
-                  color: #39C5BB;
+                  color: #E25577;
                 }
                 h2 {
                   color: #39C5BB;
+                }
+                h3 {
+                  color: #FFA500;
                 }
                 
       # 📓 Featured repositories
@@ -234,13 +261,16 @@ jobs:
           plugin_repositories_pinned: 2
           extras_css: |
                 title {
-                  color: #39C5BB;
+                  color: #E25577;
                 }
                 h1 {
-                  color: #39C5BB;
+                  color: #E25577;
                 }
                 h2 {
                   color: #39C5BB;
+                }
+                h3 {
+                  color: #FFA500;
                 }
                 
       # 💬 Discussions
@@ -254,13 +284,16 @@ jobs:
           plugin_discussions_categories_limit: 8
           extras_css: |
                 title {
-                  color: #39C5BB;
+                  color: #E25577;
                 }
                 h1 {
-                  color: #39C5BB;
+                  color: #E25577;
                 }
                 h2 {
                   color: #39C5BB;
+                }
+                h3 {
+                  color: #FFA500;
                 }
                 
       # 📆 Commit calendar
@@ -274,13 +307,16 @@ jobs:
           plugin_calendar_limit: 0
           extras_css: |
                 title {
-                  color: #39C5BB;
+                  color: #E25577;
                 }
                 h1 {
-                  color: #39C5BB;
+                  color: #E25577;
                 }
                 h2 {
                   color: #39C5BB;
+                }
+                h3 {
+                  color: #FFA500;
                 }
                 
       # 🏆 Achievements
@@ -298,13 +334,16 @@ jobs:
           plugin_achievements_threshold: X
           extras_css: |
                 title {
-                  color: #39C5BB;
+                  color: #E25577;
                 }
                 h1 {
-                  color: #39C5BB;
+                  color: #E25577;
                 }
                 h2 {
                   color: #39C5BB;
+                }
+                h3 {
+                  color: #FFA500;
                 }
                 
       # 📰 Recent activity
@@ -320,13 +359,16 @@ jobs:
           plugin_activity_filter: issue, pr, release, fork, review, ref/create
           extras_css: |
                 title {
-                  color: #39C5BB;
+                  color: #E25577;
                 }
                 h1 {
-                  color: #39C5BB;
+                  color: #E25577;
                 }
                 h2 {
                   color: #39C5BB;
+                }
+                h3 {
+                  color: #FFA500;
                 }
                 
       # 🗨️ Stack Overflow
@@ -342,13 +384,16 @@ jobs:
           plugin_stackoverflow_limit: 2
           extras_css: |
                 title {
-                  color: #39C5BB;
+                  color: #E25577;
                 }
                 h1 {
-                  color: #39C5BB;
+                  color: #E25577;
                 }
                 h2 {
                   color: #39C5BB;
+                }
+                h3 {
+                  color: #FFA500;
                 }
                 
       - name: Youtube Music - Recently listed
@@ -364,13 +409,16 @@ jobs:
           plugin_music_provider: youtube
           extras_css: |
                 title {
-                  color: #39C5BB;
+                  color: #E25577;
                 }
                 h1 {
-                  color: #39C5BB;
+                  color: #E25577;
                 }
                 h2 {
                   color: #39C5BB;
+                }
+                h3 {
+                  color: #FFA500;
                 }
                 
       - name: Profile and detailed game history
@@ -384,11 +432,14 @@ jobs:
           plugin_steam_user: "76561199217066181"
           extras_css: |
                 title {
-                  color: #39C5BB;
+                  color: #E25577;
                 }
                 h1 {
-                  color: #39C5BB;
+                  color: #E25577;
                 }
                 h2 {
                   color: #39C5BB;
+                }
+                h3 {
+                  color: #FFA500;
                 }
