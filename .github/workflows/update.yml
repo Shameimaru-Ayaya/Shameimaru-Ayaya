@@ -514,7 +514,6 @@ jobs:
           plugin_music_played_at: yes
           plugin_music_provider: youtube
           extras_css: |
-                .media .infos div,
                 .media .infos,
                 .infos div {
                   color: #FFA500 !important; 
