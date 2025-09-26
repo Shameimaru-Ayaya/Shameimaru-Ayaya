@@ -40,6 +40,9 @@ jobs:
           # plugin_starlists_limit_languages: 8
           # plugin_starlists_only: Awesome
           extras_css: |
+                * {
+                  color:#FFE211;
+                }
                 title {
                   color: #E25577;
                 }
@@ -54,12 +57,6 @@ jobs:
                 }
                 h4 {
                   color: #FFC0CB;
-                }
-                text {
-                  color:#FFE211;
-                }
-                p {
-                  color:#FFE211;
                 }
           retries: 3
           retries_delay: 300
@@ -120,6 +117,9 @@ jobs:
           # plugin_languages_limit: 4
           plugin_languages_analysis_timeout: 15
           extras_css: |
+                * {
+                  color:#FFE211;
+                }
                 title {
                   color: #E25577;
                 }
@@ -134,12 +134,6 @@ jobs:
                 }
                 h4 {
                   color: #FFC0CB;
-                }
-                text {
-                  color:#FFE211;
-                }
-                p {
-                  color:#FFE211;
                 }
           retries: 3
           retries_delay: 300
@@ -156,6 +150,9 @@ jobs:
           plugin_stargazers: yes
           plugin_stargazers_charts_type: graph
           extras_css: |
+                * {
+                  color:#FFE211;
+                }
                 title {
                   color: #E25577;
                 }
@@ -170,12 +167,6 @@ jobs:
                 }
                 h4 {
                   color: #FFC0CB;
-                }
-                text {
-                  color:#FFE211;
-                }
-                p {
-                  color:#FFE211;
                 }
           retries: 3
           retries_delay: 300
@@ -192,6 +183,9 @@ jobs:
           plugin_stars: yes
           plugin_stars_limit: 10
           extras_css: |
+                * {
+                  color:#FFE211;
+                }
                 title {
                   color: #E25577;
                 }
@@ -206,12 +200,6 @@ jobs:
                 }
                 h4 {
                   color: #FFC0CB;
-                }
-                text {
-                  color:#FFE211;
-                }
-                p {
-                  color:#FFE211;
                 }
           retries: 3
           retries_delay: 300
@@ -230,6 +218,9 @@ jobs:
           plugin_habits_charts: yes
           config_timezone: Europe/Paris
           extras_css: |
+                * {
+                  color:#FFE211;
+                }
                 title {
                   color: #E25577;
                 }
@@ -244,12 +235,6 @@ jobs:
                 }
                 h4 {
                   color: #FFC0CB;
-                }
-                text {
-                  color:#FFE211;
-                }
-                p {
-                  color:#FFE211;
                 }
           retries: 3
           retries_delay: 300
@@ -266,6 +251,9 @@ jobs:
           plugin_followup: yes
           plugin_followup_indepth: yes
           extras_css: |
+                * {
+                  color:#FFE211;
+                }
                 title {
                   color: #E25577;
                 }
@@ -280,12 +268,6 @@ jobs:
                 }
                 h4 {
                   color: #FFC0CB;
-                }
-                text {
-                  color:#FFE211;
-                }
-                p {
-                  color:#FFE211;
                 }
           retries: 3
           retries_delay: 300
@@ -303,6 +285,9 @@ jobs:
           plugin_reactions_limit: 100
           plugin_reactions_details: percentage
           extras_css: |
+                * {
+                  color:#FFE211;
+                }
                 title {
                   color: #E25577;
                 }
@@ -317,12 +302,6 @@ jobs:
                 }
                 h4 {
                   color: #FFC0CB;
-                }
-                text {
-                  color:#FFE211;
-                }
-                p {
-                  color:#FFE211;
                 }
           retries: 3
           retries_delay: 300
@@ -341,6 +320,9 @@ jobs:
           plugin_people_size: 36
           plugin_people_types: followers, following
           extras_css: |
+                * {
+                  color:#FFE211;
+                }
                 title {
                   color: #E25577;
                 }
@@ -355,12 +337,6 @@ jobs:
                 }
                 h4 {
                   color: #FFC0CB;
-                }
-                text {
-                  color:#FFE211;
-                }
-                p {
-                  color:#FFE211;
                 }
           retries: 3
           retries_delay: 300
@@ -377,6 +353,9 @@ jobs:
           plugin_repositories: yes
           plugin_repositories_pinned: 2
           extras_css: |
+                * {
+                  color:#FFE211;
+                }
                 title {
                   color: #E25577;
                 }
@@ -391,12 +370,6 @@ jobs:
                 }
                 h4 {
                   color: #FFC0CB;
-                }
-                text {
-                  color:#FFE211;
-                }
-                p {
-                  color:#FFE211;
                 }
           retries: 3
           retries_delay: 300
@@ -413,6 +386,9 @@ jobs:
           plugin_discussions: yes
           plugin_discussions_categories_limit: 8
           extras_css: |
+                * {
+                  color:#FFE211;
+                }
                 title {
                   color: #E25577;
                 }
@@ -427,12 +403,6 @@ jobs:
                 }
                 h4 {
                   color: #FFC0CB;
-                }
-                text {
-                  color:#FFE211;
-                }
-                p {
-                  color:#FFE211;
                 }
           retries: 3
           retries_delay: 300
@@ -449,6 +419,9 @@ jobs:
           plugin_calendar: yes
           plugin_calendar_limit: 0
           extras_css: |
+                * {
+                  color:#FFE211;
+                }
                 title {
                   color: #E25577;
                 }
@@ -463,12 +436,6 @@ jobs:
                 }
                 h4 {
                   color: #FFC0CB;
-                }
-                text {
-                  color:#FFE211;
-                }
-                p {
-                  color:#FFE211;
                 }
           retries: 3
           retries_delay: 300
@@ -489,6 +456,9 @@ jobs:
           plugin_achievements_display: compact
           plugin_achievements_threshold: X
           extras_css: |
+                * {
+                  color:#FFE211;
+                }
                 title {
                   color: #E25577;
                 }
@@ -503,12 +473,6 @@ jobs:
                 }
                 h4 {
                   color: #FFC0CB;
-                }
-                text {
-                  color:#FFE211;
-                }
-                p {
-                  color:#FFE211;
                 }
           retries: 3
           retries_delay: 300
@@ -527,6 +491,9 @@ jobs:
           plugin_activity_days: 0
           plugin_activity_filter: issue, pr, release, fork, review, ref/create
           extras_css: |
+                * {
+                  color:#FFE211;
+                }
                 title {
                   color: #E25577;
                 }
@@ -541,12 +508,6 @@ jobs:
                 }
                 h4 {
                   color: #FFC0CB;
-                }
-                text {
-                  color:#FFE211;
-                }
-                p {
-                  color:#FFE211;
                 }
           retries: 3
           retries_delay: 300
@@ -565,6 +526,9 @@ jobs:
           plugin_stackoverflow_sections: answers-top
           plugin_stackoverflow_limit: 2
           extras_css: |
+                * {
+                  color:#FFE211;
+                }
                 title {
                   color: #E25577;
                 }
@@ -579,12 +543,6 @@ jobs:
                 }
                 h4 {
                   color: #FFC0CB;
-                }
-                text {
-                  color:#FFE211;
-                }
-                p {
-                  color:#FFE211;
                 }
           retries: 3
           retries_delay: 300
@@ -603,6 +561,9 @@ jobs:
           plugin_music_played_at: yes
           plugin_music_provider: youtube
           extras_css: |
+                body {
+                  color:#FFE211;
+                }
                 title {
                   color: #E25577;
                 }
@@ -617,12 +578,6 @@ jobs:
                 }
                 h4 {
                   color: #FFC0CB;
-                }
-                text {
-                  color:#FFE211;
-                }
-                p {
-                  color:#FFE211;
                 }
           retries: 3
           retries_delay: 300
@@ -639,26 +594,20 @@ jobs:
           plugin_steam: yes
           plugin_steam_user: "76561199217066181"
           extras_css: |
-                title {
-                  color: #E25577;
+                * {
+                  color:#FFE211 !important;
                 }
                 h1 {
-                  color: #E25577;
+                  color: #E25577 !important;
                 }
                 h2 {
-                  color: #39C5BB;
+                  color: #39C5BB !important;
                 }
                 h3 {
-                  color: #FFA500;
+                  color: #FFA500 !important;
                 }
                 h4 {
-                  color: #FFC0CB;
-                }
-                text {
-                  color:#FFE211;
-                }
-                p {
-                  color:#FFE211;
+                  color: #FFC0CB !important;
                 }
           retries: 3
           retries_delay: 300
