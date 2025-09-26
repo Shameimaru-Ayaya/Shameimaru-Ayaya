@@ -24,16 +24,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           # Options
           config_timezone: Asia/Tokyo
-          extras_css: |
-                title {
-                  color: #39C5BB;
-                }
-                h1 {
-                  color: #39C5BB;
-                }
-                h2 {
-                  color: #39C5BB;
-                }
           # base: "header, activity, community, repositories"
           # 此插件为文档中的 🧮 Repositories traffic
           plugin_traffic: yes
@@ -49,6 +39,16 @@ jobs:
           # plugin_starlists_languages: yes
           # plugin_starlists_limit_languages: 8
           # plugin_starlists_only: Awesome
+          extras_css: |
+                title {
+                  color: #39C5BB;
+                }
+                h1 {
+                  color: #39C5BB;
+                }
+                h2 {
+                  color: #39C5BB;
+                }
 
       # 📅 Isometric commit calendar
       - name: Full-year calendar
@@ -62,6 +62,16 @@ jobs:
           plugin_isocalendar: yes
           # 设置成显示整年
           plugin_isocalendar_duration: full-year
+          extras_css: |
+                title {
+                  color: #39C5BB;
+                }
+                h1 {
+                  color: #39C5BB;
+                }
+                h2 {
+                  color: #39C5BB;
+                }
 
       # 🈷️ Languages activity
       - name: Indepth analysis
@@ -77,6 +87,16 @@ jobs:
           plugin_languages_details: lines, bytes-size
           # plugin_languages_limit: 4
           plugin_languages_analysis_timeout: 15
+          extras_css: |
+                title {
+                  color: #39C5BB;
+                }
+                h1 {
+                  color: #39C5BB;
+                }
+                h2 {
+                  color: #39C5BB;
+                }
 
       # ✨ Stargazers
       - name: Using chartist charts
@@ -87,7 +107,17 @@ jobs:
           base: ""
           plugin_stargazers: yes
           plugin_stargazers_charts_type: graph
-
+          extras_css: |
+                title {
+                  color: #39C5BB;
+                }
+                h1 {
+                  color: #39C5BB;
+                }
+                h2 {
+                  color: #39C5BB;
+                }
+                
       # 🌟 Recently starred repositories
       - name: Recently starred
         uses: lowlighter/metrics@latest
@@ -97,7 +127,17 @@ jobs:
           base: ""
           plugin_stars: yes
           plugin_stars_limit: 10
-
+          extras_css: |
+                title {
+                  color: #39C5BB;
+                }
+                h1 {
+                  color: #39C5BB;
+                }
+                h2 {
+                  color: #39C5BB;
+                }
+                
       # 💡 Coding habits and activity
       - name: Recent activity charts
         uses: lowlighter/metrics@latest
@@ -109,7 +149,17 @@ jobs:
           plugin_habits_facts: no
           plugin_habits_charts: yes
           config_timezone: Europe/Paris
-
+          extras_css: |
+                title {
+                  color: #39C5BB;
+                }
+                h1 {
+                  color: #39C5BB;
+                }
+                h2 {
+                  color: #39C5BB;
+                }
+                
       # 🎟️ Follow-up of issues and pull requests
       - name: Indepth analysis
         uses: lowlighter/metrics@latest
@@ -119,6 +169,16 @@ jobs:
           base: ""
           plugin_followup: yes
           plugin_followup_indepth: yes
+          extras_css: |
+                title {
+                  color: #39C5BB;
+                }
+                h1 {
+                  color: #39C5BB;
+                }
+                h2 {
+                  color: #39C5BB;
+                }
 
       # 🎭 Comment reactions
       - name: Comment reactions
@@ -130,6 +190,16 @@ jobs:
           plugin_reactions: yes
           plugin_reactions_limit: 100
           plugin_reactions_details: percentage
+          extras_css: |
+                title {
+                  color: #39C5BB;
+                }
+                h1 {
+                  color: #39C5BB;
+                }
+                h2 {
+                  color: #39C5BB;
+                }
 
       # 🧑‍🤝‍🧑 People
       - name: Followers
@@ -142,7 +212,17 @@ jobs:
           plugin_people_limit: 300
           plugin_people_size: 36
           plugin_people_types: followers, following
-
+          extras_css: |
+                title {
+                  color: #39C5BB;
+                }
+                h1 {
+                  color: #39C5BB;
+                }
+                h2 {
+                  color: #39C5BB;
+                }
+                
       # 📓 Featured repositories
       - name: Pinned repositories
         uses: lowlighter/metrics@latest
@@ -152,7 +232,17 @@ jobs:
           base: ""
           plugin_repositories: yes
           plugin_repositories_pinned: 2
-
+          extras_css: |
+                title {
+                  color: #39C5BB;
+                }
+                h1 {
+                  color: #39C5BB;
+                }
+                h2 {
+                  color: #39C5BB;
+                }
+                
       # 💬 Discussions
       - name: GitHub Discussions
         uses: lowlighter/metrics@latest
@@ -162,7 +252,17 @@ jobs:
           base: ""
           plugin_discussions: yes
           plugin_discussions_categories_limit: 8
-
+          extras_css: |
+                title {
+                  color: #39C5BB;
+                }
+                h1 {
+                  color: #39C5BB;
+                }
+                h2 {
+                  color: #39C5BB;
+                }
+                
       # 📆 Commit calendar
       - name: Full history calendar
         uses: lowlighter/metrics@latest
@@ -172,7 +272,17 @@ jobs:
           base: ""
           plugin_calendar: yes
           plugin_calendar_limit: 0
-
+          extras_css: |
+                title {
+                  color: #39C5BB;
+                }
+                h1 {
+                  color: #39C5BB;
+                }
+                h2 {
+                  color: #39C5BB;
+                }
+                
       # 🏆 Achievements
       - name: Compact display
         uses: lowlighter/metrics@latest
@@ -186,7 +296,17 @@ jobs:
             scripter, packager, explorer, infographile, manager
           plugin_achievements_display: compact
           plugin_achievements_threshold: X
-
+          extras_css: |
+                title {
+                  color: #39C5BB;
+                }
+                h1 {
+                  color: #39C5BB;
+                }
+                h2 {
+                  color: #39C5BB;
+                }
+                
       # 📰 Recent activity
       - name: Recent activity
         uses: lowlighter/metrics@latest
@@ -198,7 +318,17 @@ jobs:
           plugin_activity_limit: 5
           plugin_activity_days: 0
           plugin_activity_filter: issue, pr, release, fork, review, ref/create
-
+          extras_css: |
+                title {
+                  color: #39C5BB;
+                }
+                h1 {
+                  color: #39C5BB;
+                }
+                h2 {
+                  color: #39C5BB;
+                }
+                
       # 🗨️ Stack Overflow
       - name: Top answers from stackoverflow
         uses: lowlighter/metrics@latest
@@ -210,7 +340,17 @@ jobs:
           plugin_stackoverflow_user: 1
           plugin_stackoverflow_sections: answers-top
           plugin_stackoverflow_limit: 2
-  
+            extras_css: |
+                title {
+                  color: #39C5BB;
+                }
+                h1 {
+                  color: #39C5BB;
+                }
+                h2 {
+                  color: #39C5BB;
+                }
+                
       - name: Youtube Music - Recently listed
         uses: lowlighter/metrics@latest
         with:
@@ -222,7 +362,17 @@ jobs:
           plugin_music_mode: recent
           plugin_music_played_at: yes
           plugin_music_provider: youtube
-
+          extras_css: |
+                title {
+                  color: #39C5BB;
+                }
+                h1 {
+                  color: #39C5BB;
+                }
+                h2 {
+                  color: #39C5BB;
+                }
+                
       - name: Profile and detailed game history
         uses: lowlighter/metrics@latest
         with:
@@ -232,3 +382,13 @@ jobs:
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
           plugin_steam: yes
           plugin_steam_user: "76561199217066181"
+          extras_css: |
+                title {
+                  color: #39C5BB;
+                }
+                h1 {
+                  color: #39C5BB;
+                }
+                h2 {
+                  color: #39C5BB;
+                }
