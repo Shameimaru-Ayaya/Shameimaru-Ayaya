@@ -55,6 +55,12 @@ jobs:
                 h4 {
                   color: #FFC0CB;
                 }
+                text {
+                  color:#FFE211;
+                }
+                p {
+                  color:#FFE211;
+                }
           retries: 3
           retries_delay: 300
           retries_output_action: 5
@@ -87,6 +93,12 @@ jobs:
                 }
                 h4 {
                   color: #FFC0CB;
+                }
+                text {
+                  color:#FFE211;
+                }
+                p {
+                  color:#FFE211;
                 }
           retries: 3
           retries_delay: 300
@@ -123,6 +135,12 @@ jobs:
                 h4 {
                   color: #FFC0CB;
                 }
+                text {
+                  color:#FFE211;
+                }
+                p {
+                  color:#FFE211;
+                }
           retries: 3
           retries_delay: 300
           retries_output_action: 5
@@ -153,6 +171,12 @@ jobs:
                 h4 {
                   color: #FFC0CB;
                 }
+                text {
+                  color:#FFE211;
+                }
+                p {
+                  color:#FFE211;
+                }
           retries: 3
           retries_delay: 300
           retries_output_action: 5
@@ -182,6 +206,12 @@ jobs:
                 }
                 h4 {
                   color: #FFC0CB;
+                }
+                text {
+                  color:#FFE211;
+                }
+                p {
+                  color:#FFE211;
                 }
           retries: 3
           retries_delay: 300
@@ -215,6 +245,12 @@ jobs:
                 h4 {
                   color: #FFC0CB;
                 }
+                text {
+                  color:#FFE211;
+                }
+                p {
+                  color:#FFE211;
+                }
           retries: 3
           retries_delay: 300
           retries_output_action: 5
@@ -244,6 +280,12 @@ jobs:
                 }
                 h4 {
                   color: #FFC0CB;
+                }
+                text {
+                  color:#FFE211;
+                }
+                p {
+                  color:#FFE211;
                 }
           retries: 3
           retries_delay: 300
@@ -275,6 +317,12 @@ jobs:
                 }
                 h4 {
                   color: #FFC0CB;
+                }
+                text {
+                  color:#FFE211;
+                }
+                p {
+                  color:#FFE211;
                 }
           retries: 3
           retries_delay: 300
@@ -308,6 +356,12 @@ jobs:
                 h4 {
                   color: #FFC0CB;
                 }
+                text {
+                  color:#FFE211;
+                }
+                p {
+                  color:#FFE211;
+                }
           retries: 3
           retries_delay: 300
           retries_output_action: 5
@@ -337,6 +391,12 @@ jobs:
                 }
                 h4 {
                   color: #FFC0CB;
+                }
+                text {
+                  color:#FFE211;
+                }
+                p {
+                  color:#FFE211;
                 }
           retries: 3
           retries_delay: 300
@@ -368,6 +428,12 @@ jobs:
                 h4 {
                   color: #FFC0CB;
                 }
+                text {
+                  color:#FFE211;
+                }
+                p {
+                  color:#FFE211;
+                }
           retries: 3
           retries_delay: 300
           retries_output_action: 5
@@ -397,6 +463,12 @@ jobs:
                 }
                 h4 {
                   color: #FFC0CB;
+                }
+                text {
+                  color:#FFE211;
+                }
+                p {
+                  color:#FFE211;
                 }
           retries: 3
           retries_delay: 300
@@ -432,6 +504,12 @@ jobs:
                 h4 {
                   color: #FFC0CB;
                 }
+                text {
+                  color:#FFE211;
+                }
+                p {
+                  color:#FFE211;
+                }
           retries: 3
           retries_delay: 300
           retries_output_action: 5
@@ -463,6 +541,12 @@ jobs:
                 }
                 h4 {
                   color: #FFC0CB;
+                }
+                text {
+                  color:#FFE211;
+                }
+                p {
+                  color:#FFE211;
                 }
           retries: 3
           retries_delay: 300
@@ -496,6 +580,12 @@ jobs:
                 h4 {
                   color: #FFC0CB;
                 }
+                text {
+                  color:#FFE211;
+                }
+                p {
+                  color:#FFE211;
+                }
           retries: 3
           retries_delay: 300
           retries_output_action: 5
@@ -528,6 +618,12 @@ jobs:
                 h4 {
                   color: #FFC0CB;
                 }
+                text {
+                  color:#FFE211;
+                }
+                p {
+                  color:#FFE211;
+                }
           retries: 3
           retries_delay: 300
           retries_output_action: 5
@@ -557,6 +653,12 @@ jobs:
                 }
                 h4 {
                   color: #FFC0CB;
+                }
+                text {
+                  color:#FFE211;
+                }
+                p {
+                  color:#FFE211;
                 }
           retries: 3
           retries_delay: 300
