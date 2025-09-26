@@ -17,6 +17,12 @@ h3 {
 }
 h4 {
  color: #FFC0CB;
+}
+text {
+ color:#FFE211;
+}
+p {
+ color:#FFE211;
 }</style>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
