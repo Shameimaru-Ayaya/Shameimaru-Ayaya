@@ -52,7 +52,14 @@ jobs:
                 h3 {
                   color: #FFA500;
                 }
-
+                h4 {
+                  color: #FFC0CB;
+                }
+          retries: 3
+          retries_delay: 300
+          retries_output_action: 5
+          retries_delay_output_action: 120
+    
       # 📅 Isometric commit calendar
       - name: Full-year calendar
         uses: lowlighter/metrics@latest
@@ -78,6 +85,13 @@ jobs:
                 h3 {
                   color: #FFA500;
                 }
+                h4 {
+                  color: #FFC0CB;
+                }
+          retries: 3
+          retries_delay: 300
+          retries_output_action: 5
+          retries_delay_output_action: 120
 
       # 🈷️ Languages activity
       - name: Indepth analysis
@@ -106,7 +120,14 @@ jobs:
                 h3 {
                   color: #FFA500;
                 }
-
+                h4 {
+                  color: #FFC0CB;
+                }
+          retries: 3
+          retries_delay: 300
+          retries_output_action: 5
+          retries_delay_output_action: 120
+          
       # ✨ Stargazers
       - name: Using chartist charts
         uses: lowlighter/metrics@latest
@@ -129,7 +150,14 @@ jobs:
                 h3 {
                   color: #FFA500;
                 }
-                
+                h4 {
+                  color: #FFC0CB;
+                }
+          retries: 3
+          retries_delay: 300
+          retries_output_action: 5
+          retries_delay_output_action: 120
+          
       # 🌟 Recently starred repositories
       - name: Recently starred
         uses: lowlighter/metrics@latest
@@ -152,7 +180,14 @@ jobs:
                 h3 {
                   color: #FFA500;
                 }
-                
+                h4 {
+                  color: #FFC0CB;
+                }
+          retries: 3
+          retries_delay: 300
+          retries_output_action: 5
+          retries_delay_output_action: 120
+          
       # 💡 Coding habits and activity
       - name: Recent activity charts
         uses: lowlighter/metrics@latest
@@ -177,7 +212,14 @@ jobs:
                 h3 {
                   color: #FFA500;
                 }
-                
+                h4 {
+                  color: #FFC0CB;
+                }
+          retries: 3
+          retries_delay: 300
+          retries_output_action: 5
+          retries_delay_output_action: 120
+          
       # 🎟️ Follow-up of issues and pull requests
       - name: Indepth analysis
         uses: lowlighter/metrics@latest
@@ -200,7 +242,14 @@ jobs:
                 h3 {
                   color: #FFA500;
                 }
-
+                h4 {
+                  color: #FFC0CB;
+                }
+          retries: 3
+          retries_delay: 300
+          retries_output_action: 5
+          retries_delay_output_action: 120
+          
       # 🎭 Comment reactions
       - name: Comment reactions
         uses: lowlighter/metrics@latest
@@ -224,7 +273,14 @@ jobs:
                 h3 {
                   color: #FFA500;
                 }
-
+                h4 {
+                  color: #FFC0CB;
+                }
+          retries: 3
+          retries_delay: 300
+          retries_output_action: 5
+          retries_delay_output_action: 120
+          
       # 🧑‍🤝‍🧑 People
       - name: Followers
         uses: lowlighter/metrics@latest
@@ -249,7 +305,14 @@ jobs:
                 h3 {
                   color: #FFA500;
                 }
-                
+                h4 {
+                  color: #FFC0CB;
+                }
+          retries: 3
+          retries_delay: 300
+          retries_output_action: 5
+          retries_delay_output_action: 120
+          
       # 📓 Featured repositories
       - name: Pinned repositories
         uses: lowlighter/metrics@latest
@@ -272,7 +335,14 @@ jobs:
                 h3 {
                   color: #FFA500;
                 }
-                
+                h4 {
+                  color: #FFC0CB;
+                }
+          retries: 3
+          retries_delay: 300
+          retries_output_action: 5
+          retries_delay_output_action: 120
+          
       # 💬 Discussions
       - name: GitHub Discussions
         uses: lowlighter/metrics@latest
@@ -295,7 +365,14 @@ jobs:
                 h3 {
                   color: #FFA500;
                 }
-                
+                h4 {
+                  color: #FFC0CB;
+                }
+          retries: 3
+          retries_delay: 300
+          retries_output_action: 5
+          retries_delay_output_action: 120
+          
       # 📆 Commit calendar
       - name: Full history calendar
         uses: lowlighter/metrics@latest
@@ -318,7 +395,14 @@ jobs:
                 h3 {
                   color: #FFA500;
                 }
-                
+                h4 {
+                  color: #FFC0CB;
+                }
+          retries: 3
+          retries_delay: 300
+          retries_output_action: 5
+          retries_delay_output_action: 120
+          
       # 🏆 Achievements
       - name: Compact display
         uses: lowlighter/metrics@latest
@@ -345,7 +429,14 @@ jobs:
                 h3 {
                   color: #FFA500;
                 }
-                
+                h4 {
+                  color: #FFC0CB;
+                }
+          retries: 3
+          retries_delay: 300
+          retries_output_action: 5
+          retries_delay_output_action: 120
+          
       # 📰 Recent activity
       - name: Recent activity
         uses: lowlighter/metrics@latest
@@ -370,7 +461,14 @@ jobs:
                 h3 {
                   color: #FFA500;
                 }
-                
+                h4 {
+                  color: #FFC0CB;
+                }
+          retries: 3
+          retries_delay: 300
+          retries_output_action: 5
+          retries_delay_output_action: 120
+          
       # 🗨️ Stack Overflow
       - name: Top answers from stackoverflow
         uses: lowlighter/metrics@latest
@@ -395,7 +493,14 @@ jobs:
                 h3 {
                   color: #FFA500;
                 }
-                
+                h4 {
+                  color: #FFC0CB;
+                }
+          retries: 3
+          retries_delay: 300
+          retries_output_action: 5
+          retries_delay_output_action: 120
+          
       - name: Youtube Music - Recently listed
         uses: lowlighter/metrics@latest
         with:
@@ -420,7 +525,14 @@ jobs:
                 h3 {
                   color: #FFA500;
                 }
-                
+                h4 {
+                  color: #FFC0CB;
+                }
+          retries: 3
+          retries_delay: 300
+          retries_output_action: 5
+          retries_delay_output_action: 120
+          
       - name: Profile and detailed game history
         uses: lowlighter/metrics@latest
         with:
@@ -443,3 +555,10 @@ jobs:
                 h3 {
                   color: #FFA500;
                 }
+                h4 {
+                  color: #FFC0CB;
+                }
+          retries: 3
+          retries_delay: 300
+          retries_output_action: 5
+          retries_delay_output_action: 120
