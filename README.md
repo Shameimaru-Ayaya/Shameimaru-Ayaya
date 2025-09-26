@@ -2,7 +2,7 @@
 ###### Preference：[简体中文](https://www.gov.cn/)｜[繁體中文](http://big5.www.gov.cn/gate/big5/www.gov.cn/)｜[日本語](https://www.kunaicho.go.jp/)｜[English](https://www.gov.uk/)<p align="right">☛<a href="https://shameimaru-ayaya.github.io/">More Info</a></p>
 
 <a href="https://github.com/lowlighter/metrics"><img width="450rem" src="./github-metrics/base.svg"></a>
-<a href='https://www.yuzu-soft.com/'><img width="350rem" alt="GIF" src="./colors/ciallo.gif" align="right"></a>
+<a href='https://www.yuzu-soft.com/'><img width="350" alt="GIF" src="./colors/ciallo.gif" align="right"></a>
 
 <a href="https://github.com/lowlighter/metrics"><img width="400rem" src="./github-metrics/steam.full.svg"></a>
 <a href="https://github.com/lowlighter/metrics"><img width="400rem" src="./github-metrics/youtube.music.svg" align="right"></a>
