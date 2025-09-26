@@ -34,7 +34,7 @@ jobs:
                 h2 {
                   color: #39C5BB;
                 }
-          base: "header, activity, community, repositories"
+          # base: "header, activity, community, repositories"
           # 此插件为文档中的 🧮 Repositories traffic
           plugin_traffic: yes
           # 此插件为文档中的 👨‍💻 Lines of code changed
@@ -42,7 +42,7 @@ jobs:
           # 此插件为文档中的 🙋 Introduction
           plugin_introduction: yes
           # 此插件为文档中的 🎫 Gists
-          plugin_gists: yes
+          # plugin_gists: yes
           # 此插件为文档中的 💫 Star lists
           # plugin_starlists: yes
           # plugin_starlists_limit_repositories: 2
@@ -232,6 +232,3 @@ jobs:
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
           plugin_steam: yes
           plugin_steam_user: "0"
-
-
-
