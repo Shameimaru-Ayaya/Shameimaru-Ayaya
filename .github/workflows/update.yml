@@ -515,9 +515,7 @@ jobs:
           plugin_music_provider: youtube
           extras_css: |
                 svg {color:#FFC0CB !important;}
-                .media .infos {color:#FFC0CB !important;}
-                .media .name       { color:#0000FF !important;}
-                .achievement .title{ color:#0000FF !important;}
+                foreignObject div { color: #FFA500 !important; }
                 title {color: #E25577 !important;}
                 h1 {color: #E25577 !important;}
                 h2 {color: #39C5BB !important;}
@@ -539,7 +537,7 @@ jobs:
           plugin_steam_user: "76561199217066181"
           extras_css: |
                 svg {color:#FFC0CB !important;}
-                .track .artist{color:	#FFA500 !important;}
+                foreignObject div { color: #FFA500 !important; }
                 title {color: #E25577 !important;}
                 h1 {color: #E25577 !important;}
                 h2 {color: #39C5BB !important;}
