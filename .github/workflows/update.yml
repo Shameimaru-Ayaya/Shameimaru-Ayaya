@@ -20,6 +20,12 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Asia/Tokyo
           extras_css: |
+                title {
+                  color: #39C5BB;
+                }
+                h1 {
+                  color: #39C5BB;
+                }
                 h2 {
                   color: #39C5BB;
                 }
