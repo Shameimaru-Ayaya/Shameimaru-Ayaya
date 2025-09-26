@@ -4,7 +4,7 @@
 <a href='https://www.yuzu-soft.com/'><img height="140rem" align="right" alt="GIF" src="https://images.steamusercontent.com/ugc/1978799724366614584/BBE229BA58B6171E71D2D05800A79BF1B131A515/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" /></a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img height="140rem" src="https://github-readme-stats.vercel.app/api/?username=Shameimaru-Ayaya&show_icons=true&title_color=39c5bb&icon_color=39c5bb&rank_icon=percentile&locale=cn&include_all_commits=true"></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img height="140rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shameimaru-Ayaya&layout=compact&title_color=39c5bb&hide=jupyter%20notebook&langs_count=8&size_weight=0.1&count_weight=0.9&locale=cn"></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img height="140rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shameimaru-Ayaya&layout=compact&title_color=39c5bb&hide=jupyter%20notebook,makefile&langs_count=8&size_weight=0.1&count_weight=0.9&locale=cn"></a>
 
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph/"><img height="197rem" src="https://github-readme-activity-graph.vercel.app/graph?username=Shameimaru-Ayaya&color=e25577&line=e25577&point=e25577&days=60"></a>
 ### <p align="right">☛<a href="https://shameimaru-ayaya.github.io/">More Info</a></p>
