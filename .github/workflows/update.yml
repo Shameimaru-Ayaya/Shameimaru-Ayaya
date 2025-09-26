@@ -513,21 +513,12 @@ jobs:
           plugin_music_played_at: yes
           plugin_music_provider: youtube
           extras_css: |
-                title {
-                  color: #E25577;
-                }
-                h1 {
-                  color: #E25577;
-                }
-                h2 {
-                  color: #39C5BB;
-                }
-                h3 {
-                  color: #FFA500;
-                }
-                h4 {
-                  color: #FFC0CB;
-                }
+                svg {color:#FFC0CB !important;}
+                title {color: #E25577 !important;}
+                h1 {color: #E25577 !important;}
+                h2 {color: #39C5BB !important;}
+                h3 {color: #FFA500 !important;}
+                h4 {color: #FFC0CB !important;}
           retries: 3
           retries_delay: 300
           retries_output_action: 5
@@ -543,21 +534,12 @@ jobs:
           plugin_steam: yes
           plugin_steam_user: "76561199217066181"
           extras_css: |
-                title {
-                  color: #E25577;
-                }
-                h1 {
-                  color: #E25577;
-                }
-                h2 {
-                  color: #39C5BB;
-                }
-                h3 {
-                  color: #FFA500;
-                }
-                h4 {
-                  color: #FFC0CB;
-                }
+                svg {color:#FFC0CB !important;}
+                title {color: #E25577 !important;}
+                h1 {color: #E25577 !important;}
+                h2 {color: #39C5BB !important;}
+                h3 {color: #FFA500 !important;}
+                h4 {color: #FFC0CB !important;}
           retries: 3
           retries_delay: 300
           retries_output_action: 5
