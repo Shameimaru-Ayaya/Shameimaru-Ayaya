@@ -7,7 +7,9 @@
 .media .infos,
 .infos div {
  color: #FFA500 !important; 
-} svg {color:#FFC0CB !important;}
+} 
+.artist { color: #FFE211 !important; }
+svg {color:#FFC0CB !important;}
 title {color: #E25577 !important;}
 h1 {color: #E25577 !important;}
 h2 {color: #39C5BB !important;}
