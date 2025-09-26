@@ -214,6 +214,7 @@ jobs:
       - name: Youtube Music - Recently listed
         uses: lowlighter/metrics@latest
         with:
+          filename: github-metrics/youtube.music.svg
           token: NOT_NEEDED
           base: ""
           plugin_music_token: ${{ secrets.YOUTUBE_MUSIC_TOKENS }}
@@ -222,20 +223,10 @@ jobs:
           plugin_music_played_at: yes
           plugin_music_provider: youtube
 
-      - name: Favorites characters
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.anilist.characters.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_anilist: yes
-          plugin_anilist_sections: characters
-          plugin_anilist_limit_characters: 22
-
       - name: Profile and detailed game history
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.steam.full.svg
+          filename: github-metrics/metrics.plugin.steam.full.svg
           token: NOT_NEEDED
           base: ""
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
