@@ -226,9 +226,9 @@ jobs:
       - name: Profile and detailed game history
         uses: lowlighter/metrics@latest
         with:
-          filename: github-metrics/metrics.plugin.steam.full.svg
+          filename: github-metrics/steam.full.svg
           token: NOT_NEEDED
           base: ""
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
           plugin_steam: yes
-          plugin_steam_user: "0"
+          plugin_steam_user: "76561199217066181"
