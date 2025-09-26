@@ -340,7 +340,7 @@ jobs:
           plugin_stackoverflow_user: 1
           plugin_stackoverflow_sections: answers-top
           plugin_stackoverflow_limit: 2
-            extras_css: |
+          extras_css: |
                 title {
                   color: #39C5BB;
                 }
