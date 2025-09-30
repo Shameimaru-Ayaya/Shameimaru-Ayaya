@@ -52,8 +52,11 @@ jobs:
                 h3 {
                   color: #FFA500;
                 }
-                h4 {
-                  color: #FFC0CB;
+                svg {
+                 color: #FFC0CB;
+                }
+                footer {
+                 color: #FFC0CB;
                 }
           retries: 3
           retries_delay: 300
