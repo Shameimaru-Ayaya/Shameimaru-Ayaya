@@ -40,7 +40,6 @@ jobs:
           # plugin_starlists_limit_languages: 8
           # plugin_starlists_only: Awesome
           extras_css: |
-                * {color: #FFC0CB}
                 title {
                   color: #E25577;
                 }
