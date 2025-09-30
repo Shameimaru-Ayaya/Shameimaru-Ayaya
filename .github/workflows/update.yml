@@ -88,6 +88,18 @@ jobs:
                 h4 {
                   color: #FFC0CB;
                 }
+                svg text {
+                 color: #FFC0CB;
+                 fill: #FFC0CB;
+                }
+                svg .field text {
+                 color: #FFC0CB;
+                 fill: #FFC0CB;
+                }
+                svg .introduction {
+                 color: #FFC0CB;
+                 fill: #FFC0CB;
+                }
           retries: 3
           retries_delay: 300
           retries_output_action: 5
