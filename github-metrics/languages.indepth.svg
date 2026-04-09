@@ -33,16 +33,16 @@ footer {
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 200kb of code in 56 edited files across 16 commits</small>
+                <small>estimation from 269kb of code in 101 edited files across 34 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="311.89148345660357" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="311.89148345660357" y="0" width="79.72914456763394" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="391.6206280242375" y="0" width="37.1875499498685" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="428.80817797410594" y="0" width="31.191822025894012" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="260.19218859667234" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="260.19218859667234" y="0" width="94.65267742867759" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="354.8448660253499" y="0" width="78.73993641881012" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="433.58480244416006" y="0" width="26.415197555839974" height="8" fill="#663399"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -54,20 +54,20 @@ footer {
                                 Python
                             </div>
                             <small>
-                                <div>2.93k lines</div>
-                                <div>93.3 kB</div>
+                                <div>3.44k lines</div>
+                                <div>109 kB</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                CSS
+                                HTML
                             </div>
                             <small>
-                                <div>578 lines</div>
-                                <div>11.1 kB</div>
+                                <div>1.18k lines</div>
+                                <div>33.1 kB</div>
                             </small>
                         </div>
                     </section>
@@ -80,20 +80,20 @@ footer {
                                 JavaScript
                             </div>
                             <small>
-                                <div>742 lines</div>
-                                <div>23.8 kB</div>
+                                <div>1.28k lines</div>
+                                <div>39.8 kB</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                HTML
+                                CSS
                             </div>
                             <small>
-                                <div>278 lines</div>
-                                <div>9.33 kB</div>
+                                <div>578 lines</div>
+                                <div>11.1 kB</div>
                             </small>
                         </div>
                     </section>
