@@ -33,16 +33,16 @@ footer {
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 542kb of code in 222 edited files across 76 commits</small>
+                <small>estimation from 564kb of code in 225 edited files across 78 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="209.08419106456378" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="209.08419106456378" y="0" width="129.24033009030134" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="338.3245211548651" y="0" width="100.40573599540038" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="438.7302571502655" y="0" width="21.269742849734506" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="197.13220522741042" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="197.13220522741042" y="0" width="148.0450356607604" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="345.1772408881708" y="0" width="94.66619189847046" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="439.8434327866413" y="0" width="20.1565672133587" height="8" fill="#663399"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -80,8 +80,8 @@ footer {
                                 HTML
                             </div>
                             <small>
-                                <div>1.62k lines</div>
-                                <div>99.6 kB</div>
+                                <div>1.76k lines</div>
+                                <div>121 kB</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -92,7 +92,7 @@ footer {
                                 CSS
                             </div>
                             <small>
-                                <div>866 lines</div>
+                                <div>867 lines</div>
                                 <div>16.4 kB</div>
                             </small>
                         </div>
